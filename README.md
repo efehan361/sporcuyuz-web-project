@@ -32,6 +32,9 @@ Bu proje sayesinde bir web sitesinin sadece kodlanmasını değil, internette na
 
 ## 📸 Projeden Görüntüler
 <img width="1215" height="592" alt="image" src="https://github.com/user-attachments/assets/41e95d30-28b4-4fc6-8051-82210b9f2dce" />
+<img width="1344" height="607" alt="image" src="https://github.com/user-attachments/assets/f94d8406-0e03-453d-862b-25135f662169" />
+<img width="334" height="541" alt="image" src="https://github.com/user-attachments/assets/e6d57a3b-2f9c-4efb-abe3-0caaa6ee99e7" />
+<img width="1354" height="608" alt="image" src="https://github.com/user-attachments/assets/defb09aa-7701-4d55-9274-57a3c89084ab" />
 
 
 ## 📚 Neler Öğrendim?
