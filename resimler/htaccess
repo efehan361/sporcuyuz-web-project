@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 403 /resimler/hata403.html
